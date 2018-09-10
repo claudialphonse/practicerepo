@@ -1,1 +1,1 @@
-git practice reset
+git practice reset soft
