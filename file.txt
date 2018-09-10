@@ -1,3 +1,4 @@
 git practice reset soft
 reset command
 again reset
+reset change
